@@ -1,1 +1,2 @@
-# Movie_Application
+# movies-application
+movie project
